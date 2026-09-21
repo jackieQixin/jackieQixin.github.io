@@ -267,6 +267,11 @@ body {
     color: var(--primary);
 }
 
+.highlight-green {
+    color: var(--accent);
+    font-weight: 500;
+}
+
 .acknowledgement {
     margin-top: 20px;
     font-size: 0.92rem;
