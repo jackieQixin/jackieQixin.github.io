@@ -410,6 +410,13 @@ body {
 }
 
 /* ========== Publications ========== */
+.pub-section-title {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin: 48px 0 24px;
+    color: var(--text);
+}
+
 .pub-list {
     display: flex;
     flex-direction: column;
