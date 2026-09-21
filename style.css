@@ -267,6 +267,20 @@ body {
     color: var(--primary);
 }
 
+.acknowledgement {
+    margin-top: 20px;
+    font-size: 0.92rem;
+    color: var(--text-muted);
+    font-style: italic;
+    line-height: 1.6;
+}
+
+.acknowledgement strong {
+    color: var(--primary);
+    font-weight: 600;
+    font-style: normal;
+}
+
 /* ========== Research Grid ========== */
 .research-grid {
     display: grid;
